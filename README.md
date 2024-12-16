@@ -6,7 +6,7 @@
 A simple template based on the [Expo TypeScript](https://docs.expo.dev/guides/typescript/) template with desktop builds using [Tauri](https://v2.tauri.app/) and building pipelines for the desktop variants.
 
 # Development
-Use `npm start` to start Expo CLI and `npm run tauri` to start Tauri.
+Use `npm start` to start Expo CLI and `npm run desktop` to start Tauri.
 
 # Building
 - For Web: `npm run build-web`
